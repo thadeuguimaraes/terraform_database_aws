@@ -1,1 +1,1 @@
-"Este repositório faz parte do projeto Terraform Infra AWS, disponível em meu perfil no GitHub."
+"Este repositório faz parte do projeto terraform_infra_aws, disponível em meu perfil no GitHub."
